@@ -2,5 +2,7 @@ class demo1{
 public status void main(String args[])
 {
 system.out.println("first demo");
+system.out.println("second demo");
+
 }
 }
