@@ -5,5 +5,7 @@ system.out.println("first demo");
 system.out.println("second demo");
 system.out.print("new change");
 system.out.println("changes");
+system.out.println("first");
+
 }
 }
